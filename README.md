@@ -1,4 +1,10 @@
-# 💫 About Me:
+![image_alt](https://github.com/ArthurTechy/ArthurTechy/blob/0f96aa7ae406d93a2fa179bcaf36ece5858d9215/img1.png)
+## 👋Hi there, I’m Chiezie Arthur Ezenwaegbu
+
+---
+I'm a versatile Data Scientist and Pharmacologist skilled in machine learning, NLP, SQL, and Python, with a talent for transforming data into actionable insights in healthcare, business, and social impact. 
+
+---
 🔍 Working on: data-driven solutions in Machine learning, AI, and healthcare technology.<br>🤝 Collaborating on: AI, business, and social impact projects.<br>🧠 Need help with: Networking and career opportunities.<br>📚 Learning: Advanced AI techniques.<br>💬 Ask me about: ML, Python, chess, or data storytelling.<br>😂 Fun fact: Diplomatically funny!
 
 
