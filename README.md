@@ -9,7 +9,7 @@ I'm a versatile Data Scientist and Pharmacologist skilled in machine learning, N
 
 ---
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/chiezie-arthur-ezenwaegbu) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/chiezie-arthur-ezenwaegbu) <br>
 [Website](http://bit.ly/Arthur_Data_Scientist)
 
 # 💻 Tech Stack:
