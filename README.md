@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔍 Working on: data-driven solutions in Machine learning, AI, and healthcare technology.<br><br>🤝 Collaborating on: AI, business, and social impact projects.<br><br>🧠 Need help with: Networking and career opportunities.<br><br>📚 Learning: Advanced AI techniques.<br><br>💬 Ask me about: ML, Python, chess, or data storytelling.<br><br>😂 Fun fact: Diplomatically funny!
+🔍 Working on: data-driven solutions in Machine learning, AI, and healthcare technology.<br>🤝 Collaborating on: AI, business, and social impact projects.<br>🧠 Need help with: Networking and career opportunities.<br>📚 Learning: Advanced AI techniques.<br>💬 Ask me about: ML, Python, chess, or data storytelling.<br>😂 Fun fact: Diplomatically funny!
 
 
 ## 🌐 Socials:
